@@ -34,24 +34,28 @@ public class exercise {
 		java.lang.String l = "Welcome to our office and congratulation your new job";
 		System.out.println(l);
 		//////
+		int m=10; // this is a formula that we can use for to write some number like from 10 to 1.
+		while(m>0)
+		{System.out.println(m);
+		m--;
+		//////
+		int n=2;
+		while(n<=10)
+		{System.out.println(n);
+		n+=2;
+		//////
+		int o=20;
+		while(o<=40)
+		{System.out.println(o);
+		o+=20;
+		}
 		
 		
+		}
 		
-		
-		
-		
+		}
 		
 
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 	}
 
